@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b710c11d-71ad-4895-8801-f649d083c6b7" width="240" style="border-radius: 100%;" />
+  <img src="https://github.com/user-attachments/assets/bf2e6203-b51e-4312-a40a-dd4854210022" width="240" style="border-radius: 100%;" />
 </p>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5aa7d1e1-5d7b-4e72-a5c4-9b8fd8d24740" width="300px" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlscGprOGd5b21seGdmZmJ6NGx6MTNpamM4Z21iN2tvYjViOGFuMCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/2ikwIgNrmPZICNmRyX/giphy.gif" width="300px" alt="Coding Animation"/>
 </div>
 
 ---
