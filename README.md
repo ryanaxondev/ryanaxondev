@@ -27,13 +27,12 @@
 * 🧠 Modern Full-Stack Engineer focused on **performance, architecture & DX**
 * 🏗️ Building **real-time systems**, dashboards & **AI-driven interfaces**
 * 🤖 Exploring **autonomous UIs**, agent-driven logic & next-gen JS ecosystems
-* 🌍 Based in **California, USA**
 * ⚙️ Passionate about **system design**, scalability & developer experience
 * 🔵 Blending a **futuristic mindset** with clean engineering principles (Axon Identity)
 
 ---
 
-## 🧩 Tech Stack (Modern Full-Stack Identity)
+## 🧩 Tech Stack
 
 ### 🟦 Core Languages
 
